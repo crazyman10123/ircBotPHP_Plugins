@@ -3,6 +3,7 @@ filter
 This is a bad words filter. On startup, you should get a message saying 'missing badwords.txt'. This means that you need to create badwords.txt in the main directory, and put words (that should trigger the user being kicked) inside it. badwords.txt is a newline-seperated list, meaning one word per line.
 
 This plugin has no commands. It simply kicks the user when they say any of the words contained in badwords.txt.
+There is a Twitch compatible version included.
 
 
 guessGame
